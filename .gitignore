@@ -108,6 +108,7 @@ dkms.conf
 .history
 .ionide
 
+build/
 third_party/
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,c,c++,visualstudiocode
